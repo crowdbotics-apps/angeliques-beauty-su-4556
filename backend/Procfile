@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT angeliques_beauty_su_4556.wsgi:application

@@ -1,0 +1,3 @@
+rootProject.name = 'angeliques_beauty_su_4556'
+
+include ':app'
